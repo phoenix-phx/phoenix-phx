@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hello, I'm @phoenix-phx! My name's Alexander and these are my group-work repositories 👋
+- 👀 I’m interested in technology, coding and music!
+- 🌱 I’m a Systems Engineering Student and a Computer Science Competitive Programmer
+- 💞️ I’m looking to collaborate on projects where I can improve my skills and help others to grow up while creating amazing things!
+- 📫 You can reach me by my emails: alexander.sosa.asillanes@gmail.com or alexander.sosa.asillanes@outlook.com
+- 📫 Here is my LinkedIn profile: www.linkedin.com/in/alexander-sosa-asillanes
 
 <!--
 **phoenix-phx/phoenix-phx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
